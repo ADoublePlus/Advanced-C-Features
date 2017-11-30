@@ -93,6 +93,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\!Globals\Scripts\CameraOrbitWithZoom.cs" />
+    <Compile Include="Assets\!Globals\Scripts\RotateToMainCamera.cs" />
+    <Compile Include="Assets\!Globals\Scripts\RotateToVelocity2D.cs" />
     <Compile Include="Assets\1-Generics\Scripts\CustomList.cs" />
     <Compile Include="Assets\1-Generics\Scripts\GenericsTest.cs" />
     <Compile Include="Assets\2 - Delegates\Scripts\Attack.cs" />
