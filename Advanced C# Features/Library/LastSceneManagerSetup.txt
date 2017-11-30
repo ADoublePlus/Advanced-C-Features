@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/2 - Delegates/Scenes/Delegates-02.unity
+- path: Assets/3-AbstractClasses/Scenes/AbstractClasses.unity
   isLoaded: 1
   isActive: 1

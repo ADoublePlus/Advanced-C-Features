@@ -103,6 +103,14 @@
     <Compile Include="Assets\2 - Delegates\Scripts\Health.cs" />
     <Compile Include="Assets\2 - Delegates\Scripts\Helpers\CameraFollow.cs" />
     <Compile Include="Assets\2 - Delegates\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Bullets\Bullet.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Bullets\Explosive.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Bullets\Plasma.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Movement.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Shooting.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Weapons\PulseCannon.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Weapons\Shotgun.cs" />
+    <Compile Include="Assets\3-AbstractClasses\Scripts\Weapons\Weapon.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
