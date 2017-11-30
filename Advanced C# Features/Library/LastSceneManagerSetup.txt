@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/3-AbstractClasses/Scenes/AbstractClasses.unity
+- path: Assets/4 - Recursion/Scenes/Recursion-04.unity
   isLoaded: 1
   isActive: 1
